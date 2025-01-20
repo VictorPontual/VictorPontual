@@ -15,7 +15,7 @@ Welcome to my GitHub! I’m a passionate and enthusiastic tech enthusiast with a
 - Experimenting with novel algorithms for data preprocessing and enhancement.
 
 ### 🌱 Currently Learning:
-- Advanced neural network architectures and techniques like GANs and transformers.
+- different neural network architectures (ResNets, Sequential, Convolutional, UNets, etc) and techniques like GANs and transformers.
 - More about reinforcement learning and its real-world applications.
 - Improving my skills in deploying AI models and making them scalable.
 
